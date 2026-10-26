@@ -1,0 +1,84 @@
+Project: IoT System – Open Source Hardware, Firmware, and Documentation  
+Author: Mutesasira Bashir  
+Year: 2025  
+
+This project is released as open source under the following licenses:
+
+
+
+
+================================================================================
+HARDWARE DESIGN FILES
+================================================================================
+
+This includes:
+- PCB design files (.SchDoc, .PcbDoc, .PrjPcb, .OutJob, Gerbers)
+- Enclosure models (.scad, .step, .stl)
+- Mechanical drawings and fabrication files
+
+Licensed under the **CERN Open Hardware Licence Version 2 – Strongly Reciprocal (CERN-OHL-S v2.0)**
+
+You may copy, modify, and distribute the hardware, but must distribute any modified versions under the same license and include the source files.  
+For the full license text, see:  
+https://gitlab.com/ohwr/project/cernohl/-/wikis/uploads/819d71bea3458f71fba6cf4fb0f2de6b/cern_ohl_s_v2.txt
+
+
+
+
+================================================================================
+FIRMWARE / SOFTWARE CODE
+================================================================================
+
+This includes:
+- Arduino firmware (.ino)
+- PHP scripts and server-side code
+- Supporting scripts or embedded code
+
+Licensed under the **MIT License**:
+
+Copyright (c) 2025 Mutesasira Bashir
+
+Permission is hereby granted, free of charge, to any person obtaining a copy  
+of this software and associated documentation files (the “Software”), to deal  
+in the Software without restriction, including without limitation the rights  
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
+copies of the Software, and to permit persons to whom the Software is  
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in  
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN  
+THE SOFTWARE.
+
+Full MIT License: https://opensource.org/license/mit/
+
+
+
+
+================================================================================
+DOCUMENTATION & MANUALS
+================================================================================
+
+This includes:
+- README files
+- User and build guides
+- Diagrams and written instructions
+
+Licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**
+
+You are free to:
+- Share: copy and redistribute the material in any medium or format
+- Adapt: remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+- Attribution — You must give appropriate credit, provide a link to the license,  
+  and indicate if changes were made.
+
+For full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
